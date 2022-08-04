@@ -1,4 +1,4 @@
-![Failed to load image](img\logo.png "BrainC - Brainfuck with C/C++")
+![Failed to load image](img/logo.png "BrainC - Brainfuck with C/C++")
 
 BrainC is a Enrich Programming Language that makes a ussless language usefull,
 BrainC **combines Brainfuck and c togetter.** It makes Brainfuck usefull rather *printing text into the command prompt.*
@@ -64,7 +64,7 @@ And you are ready to modify.
 ## Compiling
 If you are done modifing BrainC or have to test it open `Compile.bat` This sould be instant and it will look like this when it is done compiling:
 
-![Failed to load image](img\Compile_Terminal.png "BrainC - Brainfuck with C/C++")
+![Failed to load image](img/Compile_Terminal.png "BrainC - Brainfuck with C/C++")
 And a explorer window will open where the files where created. Only 2 files are there:
 ```
 brainc.exe - Main Program
