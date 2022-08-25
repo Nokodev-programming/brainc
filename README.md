@@ -16,7 +16,7 @@ ___
 
 GCC is for compiling C programs and G++ is for comping C++ Programs.
 
-2: Make the bf(c) file
+2: Make the bf file
 
 3: Compile it using:
 
